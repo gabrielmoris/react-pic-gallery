@@ -33,7 +33,7 @@ yarn add react-pic-gallery
 
 ## Usage
 
-A list of objects containing a thumbnail source and the full source is the only needed parameter.
+A list of objects containing a thumbnail source and the full source (optional) is the only needed parameter.
 
 ```jsx
 import React from 'react'
